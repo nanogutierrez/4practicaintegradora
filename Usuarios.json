@@ -1,0 +1,30 @@
+[
+	{	
+		"id": "1",
+		"name": "juan",
+		"lastname": "gutierrez",
+		"username": "juangutierrez",
+		"password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+	},
+	{	
+		"id": "2",
+		"name": "leandro",
+		"lastname": "cid",
+		"username": "leancid",
+		"password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+	},
+	{	
+		"id": "3",
+		"name": "facundo",
+		"lastname": "perez",
+		"username": "facuperez",
+		"password": "e9e0108cc5de9143ebc531158e2a054a8c0d141bd562a089c06585e16115a755"
+	},
+	{
+		"id": "4",
+		"name": "paula",
+		"lastname": "martinez",
+		"username": "paulimartinez",
+		"password": "406a1f181261a54c61d26550d0f87b9e469a094709592c45c375ac3c38fd33cf"
+	}
+]
